@@ -1,0 +1,32 @@
+# Nginx logs and temporary files (keep nginx-1.20.2 for reference)
+nginx-1.20.2/logs/
+nginx-1.20.2/temp/
+nginx-1.20.2/nginx.exe
+nginx-1.20.2/nginx.pid
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if any)
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

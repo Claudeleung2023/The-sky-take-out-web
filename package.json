@@ -1,0 +1,12 @@
+{
+  "name": "sky-takeout",
+  "version": "1.0.0",
+  "description": "Sky Take-out Management System",
+  "scripts": {
+    "build": "echo 'Static files already built'",
+    "start": "echo 'Static site ready'"
+  },
+  "keywords": ["vue", "typescript", "restaurant", "management"],
+  "author": "Your Name",
+  "license": "MIT"
+}
